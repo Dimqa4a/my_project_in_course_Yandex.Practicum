@@ -31,4 +31,4 @@
 
 ### Инструменты для исследования:
 
-Библиотеки: ***pandas***, ***matplotlib***, ***numpy***,  ***datetime***, ***scip***
+Библиотеки: ***pandas***, ***matplotlib***, ***numpy***,  ***datetime***, ***scipy***

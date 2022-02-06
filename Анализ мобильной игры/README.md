@@ -34,4 +34,4 @@
 
 ### Инструменты для исследования:
 
-Библиотеки: ***pandas***, ***matplotlib***, ***numpy***,  ***seaborn***, ***scipy***, 
+Библиотеки: ***pandas***, ***matplotlib***, ***numpy***,  ***seaborn***, ***scipy***
